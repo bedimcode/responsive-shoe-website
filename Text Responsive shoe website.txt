@@ -1,0 +1,27 @@
+========== HEADER ==========
+.nav__link
+Men - Women - Popular - Trend
+
+
+========== HOME ==========
+.home__subtitle
+NIKE
+
+.home__title
+LUPINEK <br>
+FLYKNIT <br>
+ACG
+
+.home__description
+Designed to withstand the rigors of adverse 
+conditions, the Nike ACC Flyknit Lupinek combines 
+flyknit, Flywire and a water-resistant Defender 
+Repellent system in the upper.
+
+.home__button
+BUY NOW
+
+.home__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.youtube.com/
